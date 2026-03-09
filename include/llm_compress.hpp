@@ -12,6 +12,8 @@
 //
 // Requires: libcurl (only for Summarize strategy)
 
+#include <climits>
+#include <cstdint>
 #include <functional>
 #include <string>
 #include <variant>
