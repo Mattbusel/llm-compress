@@ -7,7 +7,8 @@
 //
 // USAGE:
 //   #define LLM_COMPRESS_IMPLEMENTATION  (in exactly one .cpp)
-//   #include "llm_compress.hpp"
+//   #include <cstdint>
+#include "llm_compress.hpp"
 //
 // Requires: libcurl (only for Summarize strategy)
 
